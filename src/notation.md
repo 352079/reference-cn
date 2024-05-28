@@ -1,4 +1,4 @@
-# 表义符/符号
+# 转义符/符号
 
 >[notation.md](https://github.com/rust-lang/reference/blob/master/src/notation.md)\
 >commit: dd1b9c331eb14ea7047ed6f2b12aaadab51b41d6 \
@@ -6,9 +6,9 @@
 
 ## 文法/语法
 
-下表中的各种表义符会在本书中标有 *词法* 和 *句法* 的文法片段中用到：
+下表中的各种转义符会在本书中标有 *词法* 和 *句法* 的文法片段中用到：
 
-| 表义符             | 示例                           | 释义                                 
+| 转义符             | 示例                           | 释义                                 
 |-------------------|-------------------------------|---------------------------------|
 | CAPITAL           | KW_IF, INTEGER_LITERAL        | 由词法分析生成的单一 token          |
 | _ItalicCamelCase_ | _LetStatement_, _Item_        | 句法产生式(syntactical production)|
